@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640252187 source:c:\users\hp\desktop\new folder 555\project 4 applications\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<stdlib.h>
+	<ctype.h>
+	"windows.h"
+
